@@ -1,2 +1,2 @@
-# 105-Database-System-SQL
-Designing and developing a new database system as part of IFB105 - Database Management.
+# Database System
+Analysing database requirements of a sample organisation and creating an object role model (ORM) diagram and relational schema. Includes a set of tasks related to the ethical use of database management completed using MySQL. Evaluating database systems, data models, and physical data structures, realising the storage, retrieval (via queries), and manipulation of data, developing effective database designs, conceptualising and presenting data models, and generating ethical and culturally sensitive solutions to data management problems.
